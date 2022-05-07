@@ -1,0 +1,27 @@
+.img-portrait {
+   display: none;
+   width: 100%;
+}
+
+.img-landscape {
+   display: none;
+   width: 100%;
+}
+
+
+@media only screen and (orientation: portrait) {
+   .img-portrait {
+     display: block;
+     width: 100%;
+     align: center;
+   }
+}
+
+@media only screen and (orientation: landscape) {
+   .img-landscape {
+     display: block;
+     width: 100%;
+     align: center;
+   }
+}
+
