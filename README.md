@@ -1,6 +1,6 @@
 # remember-pat
 
-I am greatly honored to have been awarded a star for this memorial website.  Even more so in view of my age which is 86.  I am a  retired electronics design engineer.  Mostly I designed electronics hardware, although in my sixties I learned to program in 'C' and in National Instruments "C for Virtual Interface".
+I am greatly honored to have been awarded a star for this memorial website.  Even more so in view of my age which is 86 (in 2023).  I am a  retired electronics design engineer.  Mostly I designed electronics hardware, although in my sixties I learned to program in 'C' and in National Instruments "C for Virtual Interface".
 
 I created this website in loving memory of my partner Pat.  She was born in Jamaica in 1935 and died in Bromley (suburb of London) in February 2021 aged 86 years.
 I miss her so much.  Although we were not married we shared our lives for 40 years.
